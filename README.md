@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Alexander 👋
 
-<!--
-**SashaZaicev/SashaZaicev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm frontend developer from Belarus and i like programming 💜✨
+
+My projects:
+1. :relaxed: [Flash-cards](https://nataliakirik.github.io/Friday-project)  
+This project helps to study with flash cards. Joint project, a team of 3 people. Technologies that used here : **TypeScript**,**React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios**. 
+[Code](https://github.com/SashaZaicev/Friday-project) 
+2. :clipboard:  [Todolist](https://github.com/SashaZaicev/to-do-list-ts)   
+This project helps to organized better. Technologies that used here : **TypeScript**, **React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios** , **Material UI**, **Formik**, **tests**. [Code](https://github.com/SashaZaicev/to-do-list-ts)
+3.  :space_invader: Social network  
+Technologies that used here :**TypeScript**, **Redux**, **Hooks**, **REST API**. Unfinished project, I’m currently working on . [Code](https://github.com/SashaZaicev/social-network-ts) 
+
+and ect...
 
 Here are some ideas to get you started:
 
