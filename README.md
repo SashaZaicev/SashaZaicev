@@ -10,6 +10,8 @@ This project helps to study with flash cards. Joint project, a team of 3 people.
 This project helps to organized better. Technologies that used here : **TypeScript**, **React**, **Redux**, **Redux-thunk**, **Hooks**, **Axios** , **Material UI**, **Formik**, **tests**. [Code](https://github.com/SashaZaicev/to-do-list-ts)
 3.  :space_invader: Social network  
 Technologies that used here :**TypeScript**, **Redux**, **Hooks**, **REST API**. Unfinished project, I’m currently working on . [Code](https://github.com/SashaZaicev/social-network-ts) 
+4. :sheep:  [Redux counter](https://github.com/SashaZaicev/Counter)  
+Small train project with  **TypeScript**,**React**, **Redux**, **Locale storage**,  **Hooks**, **CSS** . [Code](https://sashazaicev.github.io/Counter/)  
 
 and ect...
 
